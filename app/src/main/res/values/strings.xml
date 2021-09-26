@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Students Attendence</string>
+    <string name="tv_user">Ashen perera</string>
+    <string name="tv_number">No:-8326476</string>
+    <string name="tv_atten">Your attendences</string>
+    <string name="tv_date">25/30</string>
+    <string name="tv_prest">95%</string>
+    <string name="tv_tel">0778845581</string>
+</resources>
