@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Teacher Rating</string>
+    <string name="tv_teacher">Teacher Name:-</string>
+    <string name="tv_tname">M.L. Perera</string>
+    <string name="tv_tNo">No:-T00019</string>
+    <string name="tv_degree">Degrees</string>
+    <string name="tv_d1">BS in Elementary Education.</string>
+    <string name="tv_d2">BS in Special Education.</string>
+    <string name="tv_d3">Master of art in Teacher.</string>
+    <string name="tv_rate">Please rate..</string>
+</resources>
