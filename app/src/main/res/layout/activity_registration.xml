@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    tools:context=".registration"
+    android:background="@drawable/background_g">
+
+
+    <TextView
+        android:id="@+id/register_form"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Registration Form "
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="5dp" />
+
+    <EditText
+        android:id="@+id/firstname"
+        android:layout_width="363dp"
+        android:layout_height="48dp"
+        android:layout_margin="0dp"
+        android:hint="FirstName"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="91dp" />
+
+    <EditText
+        android:id="@+id/lastname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="LaastName"
+        android:minHeight="48dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="158dp" />
+
+    <EditText
+        android:id="@+id/mobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mobile"
+        android:minHeight="48dp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="224dp" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="369dp"
+        android:layout_height="48dp"
+        android:hint="Password"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="292dp" />
+
+
+    <EditText
+        android:id="@+id/confirepassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Confire Password"
+        android:minHeight="48dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="350dp" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="184dp"
+        android:layout_height="81dp"
+        android:text="Next"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="414dp" />
+
+    <TextView
+        android:layout_width="268dp"
+        android:layout_height="35dp"
+        android:text="Already have account"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="585dp" />
+
+    <TextView
+        android:layout_width="88dp"
+        android:layout_height="32dp"
+        android:text="Login"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="181dp"
+        tools:layout_editor_absoluteY="585dp" />
+</LinearLayout>

@@ -5,7 +5,15 @@
       <map>
         <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/drawable/background_g.xml" value="0.206640625" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/drawable/ic_launcher_background.xml" value="0.206640625" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/layout/absent.xml" value="0.17486338797814208" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/layout/activity_attendence.xml" value="0.17486338797814208" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/layout/activity_newragistration.xml" value="0.17486338797814208" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/layout/activity_registration.xml" value="0.17486338797814208" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/layout/activity_registration1.xml" value="0.100390625" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/layout/current.xml" value="0.17486338797814208" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/layout/default_vi.xml" value="0.17486338797814208" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TeacherRating/app/src/main/res/layout/present.xml" value="0.17486338797814208" />
       </map>
     </option>
   </component>
